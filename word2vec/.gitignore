@@ -1,0 +1,5 @@
+model_dir
+*.pyc
+presult.txt
+*.txt
+local_model_save*
